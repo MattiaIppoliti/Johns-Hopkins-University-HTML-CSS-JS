@@ -7,7 +7,7 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Assignment description](./assignment/assignment-2/Assignment-2.md)
+* [Assignment description](./assignment/assignment-2/week2.md)
 * [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
 
 ### Module 3
