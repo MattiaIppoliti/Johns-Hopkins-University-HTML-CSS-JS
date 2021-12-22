@@ -12,8 +12,7 @@ Solutions to the assignments of the Coursera course
 
 ### Module 3
 * [Assignment description](./descriptions/assignment3/Assignment-3.md)
-* [Basic Solution (without most of the optional parts)](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module3_solution/index_basic.html)
-* [Full Solution (including all the optional parts)](https://mattiaippoliti.github.io/Johns-Hopkins-University-HTML-CSS-JS/week3/)
+* [Solution (including all the optional parts)](https://mattiaippoliti.github.io/Johns-Hopkins-University-HTML-CSS-JS/week3/)
 
 ### Module 4
 * [Assignment description](./descriptions/assignment4/Assignment-4.md)
